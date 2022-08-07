@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Murilo
 
 - 🔭 Atualmente trabalhando com desenvolvimento nativo para android  
-- 🌱 Estudando Kotlin e Flutter
+- 🌱 Estudando Flutter e Trabalhando com .NET
 - 📫 Você pode me contatar pelo email -> cardoso.murilo2002@gmail.com
 
 <div align="center">
