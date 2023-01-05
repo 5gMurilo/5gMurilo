@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Murilo
 
-- 🔭 Atualmente trabalhando com desenvolvimento nativo para android  
-- 🌱 Estudando Flutter e Trabalhando com .NET
+- 🔭 Atualmente trabalhando como desenvolvedor full-stack na empresa América Rental
+- 🌱 Estudando desenvolvimento mobile híbrido
 - 📫 Você pode me contatar pelo email -> cardoso.murilo2002@gmail.com
 
 <div align="center">
