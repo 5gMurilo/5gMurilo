@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Murilo
 
-- 🔭 Atualmente trabalhando como desenvolvedor full-stack na empresa América Rental
-- 🌱 Estudando desenvolvimento mobile híbrido
+- 🔭 Atualmente trabalhando como desenvolvedor full-stack freelancer
+- 🌱 Estudando Angular e DevOps
 - 📫 Você pode me contatar pelo email -> cardoso.murilo2002@gmail.com
 
 <div align="center">
