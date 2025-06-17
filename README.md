@@ -1,8 +1,7 @@
 ### Oi! Eu sou o Murilo
 
-- 🔭 Atualmente trabalhando como desenvolvedor full-stack freelancer
-- 🌱 Estudando mais sobre Go, Mensageria e DevOps
-- ⚙️ Especialista em React Js/Native e Spring Boot
+- 🔭 Atualmente trabalhando como desenvolvedor full-stack
+- ⚙️ Especialista em ReactJS, NextJS, NestJS e Spring Boot
 - 📫 Você pode me contatar pelo email -> cardoso.murilo2002@gmail.com
 
 <div align="center">
